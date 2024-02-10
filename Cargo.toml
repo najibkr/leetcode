@@ -1,2 +1,9 @@
 [workspace]
-members = [ "asych", "asynch",  "dsalg", "frp", "func", "functional", "leet", "oop", "react", "reactive", ]
+members = [
+"asynch",
+"dsalg",
+"func",
+"leet",
+"oop",
+"practice",
+]
